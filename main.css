@@ -123,6 +123,19 @@ li {
   height: 262px;
 }
 
+.light-theme {
+  --bg: var(--white);
+  --fontColor: var(--black);
+  --btnBg: var(--dark_grey);
+  --btnFontColor: var(--white);
+}
+.dark-theme {
+  --bg: var(--dark_grey);
+  --fontColor: var(--white);
+  --btnBg: var(--grey);
+  --btnFontColor: var(--black);
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
