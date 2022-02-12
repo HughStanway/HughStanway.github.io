@@ -37,7 +37,7 @@
 
         <div class="column middle">
           <h2>Main Content</h2>
-          <p>Test.</p>
+          <p>Hello</p>
         </div>
         
         <div class="column side">
