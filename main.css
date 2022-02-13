@@ -3,6 +3,7 @@
     --white: #ffffff;
     --dark_grey: #383838;
     --black: #000000; 
+    --middle_grey: #868686; 
   }
 
   * {
@@ -28,12 +29,14 @@ li {
     --fontColor: var(--black);
     --btnBg: var(--dark_grey);
     --btnFontColor: var(--white);
+    --background: var(--grey);
   }
   .dark-theme {
     --bg: var(--dark_grey);
     --fontColor: var(--white);
     --btnBg: var(--grey);
     --btnFontColor: var(--black);
+    --background: var(--middle_grey);
   }
 
 /* Style the navigation bar */
@@ -82,13 +85,13 @@ li {
   }
 
 .header {
-  background-color: #D5D8DC;
+  background-color: var(--background);
   text-align: center;
   padding: 20px;
 }
 
 .footer {
-  background-color: #D5D8DC;
+  background-color: var(--background);
   text-align: left;
   padding: 20px;
   border-top: 15px solid white;
@@ -121,19 +124,6 @@ li {
   border-left: 0px solid white;
   border-right: 15px solid white;
   height: 262px;
-}
-
-.light-theme {
-  --bg: var(--white);
-  --fontColor: var(--black);
-  --btnBg: var(--dark_grey);
-  --btnFontColor: var(--white);
-}
-.dark-theme {
-  --bg: var(--dark_grey);
-  --fontColor: var(--white);
-  --btnBg: var(--grey);
-  --btnFontColor: var(--black);
 }
 
 /* Clear floats after the columns */
