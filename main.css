@@ -108,9 +108,9 @@ li {
   width: 20%;
   background-color: #D5D8DC;
   padding: 20px;
-  border-left: 15px solid white;
-  border-top: 15px solid white;
-  border-bottom: 15px solid white;
+  border-left: 15px var(--bg);
+  border-top: 15px var(--bg);
+  border-bottom: 15px var(--bg);
   height: 262px;
 }
 
@@ -119,10 +119,10 @@ li {
   width: 72.1%;
   background-color: #D5D8DC;
   padding: 20px;
-  border-top: 15px solid white;
-  border-bottom: 15px solid white;
-  border-left: 0px solid white;
-  border-right: 15px solid white;
+  border-top: 15px var(--bg);
+  border-bottom: 15px var(--bg);
+  border-left: 0px var(--bg);
+  border-right: 15px var(--bg);
   height: 262px;
 }
 
