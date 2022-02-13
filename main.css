@@ -106,7 +106,7 @@ li {
 /* Left and right column */
 .column.side {
   width: 20%;
-  background-color: #D5D8DC;
+  background-color: var(--background);
   padding: 20px;
   border-left: 15px var(--bg);
   border-top: 15px var(--bg);
@@ -117,7 +117,7 @@ li {
 /* Middle column */
 .column.middle {
   width: 72.1%;
-  background-color: #D5D8DC;
+  background-color: var(--background);
   padding: 20px;
   border-top: 15px var(--bg);
   border-bottom: 15px var(--bg);
