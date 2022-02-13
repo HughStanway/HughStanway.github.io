@@ -94,7 +94,7 @@ li {
   background-color: var(--background);
   text-align: left;
   padding: 20px;
-  border-top: 15px solid white;
+  border-top: 15px var(--bg);
 }
 
 /* Create two unequal columns that floats next to each other */
