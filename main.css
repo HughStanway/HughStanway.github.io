@@ -103,7 +103,7 @@ li {
   padding: 10px;
 }
 
-/* Left and right column */
+/* Left column */
 .column.side {
   width: 20%;
   background-color: var(--background);
@@ -112,7 +112,7 @@ li {
   height: 262px;
 }
 
-/* Middle column */
+/* Right column */
 .column.middle {
   width: 72.1%;
   background-color: var(--background);
