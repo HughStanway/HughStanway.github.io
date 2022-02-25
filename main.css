@@ -44,7 +44,7 @@ li {
     width: 100%;
     background-color: #555;
     overflow: auto;
-    border-bottom: 15px;
+    margin-bottom: 15px;
   }
 
   /* Navbar links */
@@ -94,7 +94,7 @@ li {
   background-color: var(--background);
   text-align: left;
   padding: 20px;
-  border-top: 15px;
+  margin-top: 15px;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -108,7 +108,7 @@ li {
   width: 20%;
   background-color: var(--background);
   padding: 20px;
-  border-left: 15px;
+  margin-left: 15px;
   height: 262px;
 }
 
@@ -117,8 +117,7 @@ li {
   width: 72.1%;
   background-color: var(--background);
   padding: 20px;
-  border-left: 15px;
-  border-right: 150px;
+  margin-left: 15px;
   height: 262px;
 }
 
