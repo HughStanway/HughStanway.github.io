@@ -44,7 +44,7 @@ li {
     width: 100%;
     background-color: #555;
     overflow: auto;
-    border-bottom: 15px solid white;
+    border-bottom: 15px var(--bg);
   }
 
   /* Navbar links */
