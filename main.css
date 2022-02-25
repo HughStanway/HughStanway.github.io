@@ -44,7 +44,7 @@ li {
     width: 100%;
     background-color: #555;
     overflow: auto;
-    border-bottom: 15px var(--bg);
+    border-bottom: 15px;
   }
 
   /* Navbar links */
@@ -117,8 +117,8 @@ li {
   width: 72.1%;
   background-color: var(--background);
   padding: 20px;
-  border-left: 15px var(--bg);
-  border-right: 150px var(--bg);
+  border-left: 15px;
+  border-right: 150px;
   height: 262px;
 }
 
