@@ -121,7 +121,7 @@ li {
   padding: 20px;
   border-top: 15px var(--bg);
   border-bottom: 15px var(--bg);
-  border-left: 0px var(--bg);
+  border-left: 15px var(--bg);
   border-right: 15px var(--bg);
   height: 262px;
 }
