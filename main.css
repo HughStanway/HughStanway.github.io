@@ -117,7 +117,7 @@ li {
   background-color: var(--background);
   padding: 20px;
   height: 262px;
-  float: right;
+  float: left;
 }
 
 /* Clear floats after the columns */
