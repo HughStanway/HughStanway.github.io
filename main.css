@@ -105,10 +105,10 @@ li {
 
 /* Left and right column */
 .column.side {
-  width: 25%;
+  width: 20%;
   background-color: var(--background);
   padding: 20px;
-  border-left: 15px var(--bg);
+  border-left: 15px;
   height: 262px;
 }
 
