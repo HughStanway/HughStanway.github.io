@@ -109,8 +109,6 @@ li {
   background-color: var(--background);
   padding: 20px;
   border-left: 15px var(--bg);
-  border-top: 15px var(--bg);
-  border-bottom: 15px var(--bg);
   height: 262px;
 }
 
@@ -119,8 +117,6 @@ li {
   width: 72.1%;
   background-color: var(--background);
   padding: 20px;
-  border-top: 15px var(--bg);
-  border-bottom: 15px var(--bg);
   border-left: 15px var(--bg);
   border-right: 15px var(--bg);
   height: 262px;
