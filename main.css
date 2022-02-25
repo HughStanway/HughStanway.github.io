@@ -100,11 +100,12 @@ li {
 /* Create two unequal columns that floats next to each other */
 .column {
   padding: 10px;
+  float: left;
 }
 
 /* Left column */
 .column.side {
-  width: 72.1%;
+  width: 74.8%;
   background-color: var(--background);
   padding: 20px;
   margin-right: 15px;
@@ -117,7 +118,6 @@ li {
   background-color: var(--background);
   padding: 20px;
   height: 262px;
-  float: right;
 }
 
 /* Clear floats after the columns */
