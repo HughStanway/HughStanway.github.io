@@ -107,7 +107,7 @@ li {
 .column.side {
   width: 74.8%;
   background-color: var(--background);
-  padding: 20px;
+  padding: 10px;
   margin-right: 10px;
   height: 262px;
 }
